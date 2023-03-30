@@ -170,13 +170,13 @@ export const experience: ExperienceType[] = [
 
 export const projects: ProjectType[] = [
   {
-    name: 'Todo-List',
-    desc: '',
+    name: 'Swachhta(Garbage Collector)',
+    desc: "Through this app user can register and can generate unique identity(QR code) for garbage collection.To improve the user experience ,user can add complains and suggestions.",
     github: '',
-    link: '',
+    link: 'https://play.google.com/store/apps/details?id=com.swachhta',
   },
   {
-    name: 'E-Commerce',
+    name: 'TODO-LISt',
     desc: '',
     github: '',
     link: '',
