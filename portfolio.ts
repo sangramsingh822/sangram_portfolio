@@ -43,7 +43,7 @@ export const skillsSection: SkillsSectionType = {
       lottieAnimationFile: '/lottie/skills/fullstack.json', // Path of Lottie Animation JSON File
       skills: [
         emoji(
-          '⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js'
+          '⚡ Building responsive Single-Page-Apps using React.js'
         ),
         emoji('⚡ Building RESTful APIs in Node & Express REST Framework'),
         emoji('⚡ Building   mobile application using React Native'),
@@ -176,9 +176,9 @@ export const projects: ProjectType[] = [
     link: 'https://play.google.com/store/apps/details?id=com.swachhta',
   },
   {
-    name: 'TODO-LISt',
+    name: 'LeoTech-Ecommerce',
     desc: '',
-    github: '',
+    github: 'https://github.com/sangramsingh822/leotech-ecommerce.git',
     link: '',
   },
 ];
